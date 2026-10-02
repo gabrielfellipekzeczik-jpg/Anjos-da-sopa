@@ -1,0 +1,42 @@
+[
+	{
+		"path": "/",
+		"componentName": "HomePage_system_home",
+		"importPath": "@/pages/builder/home/HomePage",
+		"exportName": "HomePage",
+		"locale": "system",
+		"pageId": "home",
+		"isHome": true,
+		"pageType": "default"
+	},
+	{
+		"path": "/quem-somos",
+		"componentName": "QuemSomosPage_system_about",
+		"importPath": "@/pages/builder/quem-somos/QuemSomosPage",
+		"exportName": "QuemSomosPage",
+		"locale": "system",
+		"pageId": "about",
+		"isHome": false,
+		"pageType": "default"
+	},
+	{
+		"path": "/como-ajudar",
+		"componentName": "ComoAjudarPage_system_donate",
+		"importPath": "@/pages/builder/como-ajudar/ComoAjudarPage",
+		"exportName": "ComoAjudarPage",
+		"locale": "system",
+		"pageId": "donate",
+		"isHome": false,
+		"pageType": "default"
+	},
+	{
+		"path": "/galeria-e-impacto",
+		"componentName": "GaleriaEImpactoPage_system_impact",
+		"importPath": "@/pages/builder/galeria-e-impacto/GaleriaEImpactoPage",
+		"exportName": "GaleriaEImpactoPage",
+		"locale": "system",
+		"pageId": "impact",
+		"isHome": false,
+		"pageType": "default"
+	}
+]
